@@ -2,7 +2,7 @@
 
 Company Database Management System
 
--> This is a web application to manage company data by implementing tables, dependencies, triggers and stored procedures.
+-> This is a web application to manage an organization's data by implementing tables, dependencies, triggers and stored procedures.
 
 -> I have used HTML, CSS and JavaScript for Front-end development.
 
